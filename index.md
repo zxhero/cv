@@ -3,14 +3,21 @@ layout: cv
 title: Xu Zhang's CV
 ---
 # Xu Zhang
+
 Computer Science, Phd Candidate
+
+100080, Institute of Computing Technology, Academy South Road, No.6, Beijing, China
+
 
 <div id="webaddress">
 <a href="zhangxu19s@ict.ac.cn">zhangxu19s@ict.ac.cn</a>
 </div>
 
-<div id="selfi">
- <img src="selfi.jpg" width = "150" height = "130" />
+<div id="selfi" style="
+    position: relative;
+    left: 10%;
+">
+ <img src="selfi.jpg" width="150" height="130">
 </div>
 
 
