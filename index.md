@@ -13,11 +13,13 @@ Computer Science, Phd Candidate
 <a href="zhangxu19s@ict.ac.cn">zhangxu19s@ict.ac.cn</a>
 </div>
 
-<div id="selfi" style="
+<div id="selfi">
+<img src="selfi.jpg" style="
+    width: 10%;
     position: relative;
     left: 10%;
+    top: 8em;
 ">
- <img src="selfi.jpg" width="150" height="130">
 </div>
 
 
