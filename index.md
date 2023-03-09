@@ -18,7 +18,6 @@ Computer Science, Phd Candidate
     width: 10%;
     position: relative;
     left: 10%;
-    top: 8em;
 ">
 </div>
 
