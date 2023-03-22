@@ -46,7 +46,7 @@ Bachelor, University of Chinese Academy of Sciences
 ## Publications
 
 `2022`
-X. Zhang, Y. Chang, T. Lu, K. Liu, K. Zhang and M. Chen, "GraFF: A Multi-FPGA System with Memory Semantic Fabric for Scalable Graph Processing," 2022 International Conference on Field-Programmable Technology (ICFPT), Hong Kong, 2022, pp. 1-2, doi: 10.1109/ICFPT56656.2022.9974189. [paper](https://ieeexplore.ieee.org/document/9974189), [slides](), [lightning talk](https://www.bilibili.com/video/BV1eM411u788/)
+X. Zhang, Y. Chang, T. Lu, K. Liu, K. Zhang and M. Chen, "GraFF: A Multi-FPGA System with Memory Semantic Fabric for Scalable Graph Processing," 2022 International Conference on Field-Programmable Technology (ICFPT), Hong Kong, 2022, pp. 1-2, doi: 10.1109/ICFPT56656.2022.9974189. [paper](https://ieeexplore.ieee.org/document/9974189), [slides](Graff/FPT22_presentation.pdf), [lightning talk](https://www.bilibili.com/video/BV1eM411u788/)
 
 Luming Wang, Xu Zhang, Tianyue Lu, Mingyu Chen, "Asynchronous memory access unit for general purpose processors", BenchCouncil Transactions on Benchmarks, Standards and Evaluations, 2 (2022) 100061, DOI: [https://doi.org/10.1016/j.tbench.2022.100061](https://doi.org/10.1016/j.tbench.2022.100061)
 
