@@ -45,6 +45,9 @@ Bachelor, University of Chinese Academy of Sciences
 
 ## Publications
 
+`2023`
+X. Zhang, Y. Chang, T. Lu, K. Zhang and M. Chen, "Rethinking Design Paradigm of Graph Processing System with a CXL-like Memory Semantic Fabric," THE 23rd IEEE/ACM INTERNATIONAL SYMPOSIUM ON Cluster, Cloud and Internet Computing (CCGRID)
+
 `2022`
 X. Zhang, Y. Chang, T. Lu, K. Liu, K. Zhang and M. Chen, "GraFF: A Multi-FPGA System with Memory Semantic Fabric for Scalable Graph Processing," 2022 International Conference on Field-Programmable Technology (ICFPT), Hong Kong, 2022, pp. 1-2, doi: 10.1109/ICFPT56656.2022.9974189. [paper](https://ieeexplore.ieee.org/document/9974189), [slides](Graff/FPT22_presentation.pdf), [lightning talk](https://www.bilibili.com/video/BV1eM411u788/)
 
