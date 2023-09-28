@@ -48,7 +48,7 @@ Bachelor, University of Chinese Academy of Sciences (UCAS)
 `2023`
 **X. Zhang**, T. Lu, Y. Chang, K. Zhang, and M. Chen, "Morpheus: An Adaptive DRAM Cache with Online Granularity Adjustment for Disaggregated Memory," 2023 IEEE International Conference on Computer Design (ICCD-2023). [draft](./Morpheus/ICCD23_submitted.pdf), [code](https://github.com/zxhero/Morpheus)
 
-**X. Zhang**, Y. Chang, T. Lu, K. Zhang, and M. Chen, "Rethinking Design Paradigm of Graph Processing System with a CXL-like Memory Semantic Fabric," THE 23rd IEEE/ACM INTERNATIONAL SYMPOSIUM ON Cluster, Cloud and Internet Computing (CCGRID). [paper](https://ieeexplore.ieee.org/abstract/document/10171525), [slides](GraCXL/CCGRID23_GraCXL_slides.pdf), [lightning talk](https://www.bilibili.com/video/BV1Sa4y1G7PD/), [code](https://gitlab.agileserve.org.cn:8001/zhangxu/gracxl)
+**X. Zhang**, Y. Chang, T. Lu, K. Zhang, and M. Chen, "Rethinking Design Paradigm of Graph Processing System with a CXL-like Memory Semantic Fabric," 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing (CCGrid), Bangalore, India, 2023, pp. 25-35, doi: 10.1109/CCGrid57682.2023.00013. [paper](https://ieeexplore.ieee.org/abstract/document/10171525), [slides](GraCXL/CCGRID23_GraCXL_slides.pdf), [lightning talk](https://www.bilibili.com/video/BV1Sa4y1G7PD/), [code](https://gitlab.agileserve.org.cn:8001/zhangxu/gracxl)
 
 Qi Le, Chang Yisong, Chen Yuxiao, **Zhang Xu**, Chen Mingyu, Bao Yungang, Zhang Ke. A System-Level Platform with SoC-FPGA for RISC-V Hardware-Software Integration[J]. Journal of Computer Research and Development, 2023, 60(6): 1204-1215. doi: 10.7544/issn1000-1239.202330060
 
