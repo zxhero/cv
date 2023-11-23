@@ -73,6 +73,13 @@ Outstanding Student Award (given by UCAS in 2021)
 
 Fintech Master Award (given by E-Fund in 2020)
 
+## Acknowledgment
+
+Currently, I am engaged in close collaboration with Prof. Ke Zhang, A.P. Yisong Chang, and A.P. Tianyue Lu on my research endeavors. To conduct my experiments and drive researches forward, We have established a robust infrastructure using the FPGA cloud platform [SERVE](https://zhuanlan.zhihu.com/p/213194605) and the powerful hybrid memory trace toolkit [HMTT](http://asg.ict.ac.cn/hmtt/).
+
+The SERVE platform provids us with access to FPGA resources in the cloud. Leveraging the scalability and parallel processing capabilities of FPGAs, we can implement distributed multi-FPGA platform and optimize complex algorithms, enabling us to tackle challenging research problems.
+
+We rely on the HMTT toolkit offering capabilities for capturing and analyzing memory traces. By leveraging a DIMM-snooping mechanism and software-controlled tracing, HMTT enables us to gain deep insights into memory behavior and correlate it with high-level events.
 
 <!-- ### Footer
 
