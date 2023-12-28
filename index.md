@@ -31,7 +31,7 @@ in Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS).
 
 ## Research interests
 
-Memory Disaggregation, Distributed Shared-Memory System, Graph Computing
+My researches mainly focus on how to mitigate the significant letancy of accessing far memory, which poses an urgent and challenging problem for both **Memory Disaggregation System** and **Distributed Shared-Memory System**. I have explored a general hardware approach and a more specialized software approach targeted at **Graph Computing**.
 
 
 ## Education
@@ -46,7 +46,7 @@ Bachelor, University of Chinese Academy of Sciences (UCAS)
 ## Publications
 
 `2023`
-**X. Zhang**, T. Lu, Y. Chang, K. Zhang, and M. Chen, "Morpheus: An Adaptive DRAM Cache with Online Granularity Adjustment for Disaggregated Memory," 2023 IEEE International Conference on Computer Design (ICCD). [paper](./Morpheus/ICCD23_submitted.pdf), [slides](./Morpheus/[ICCD23%20paper%20140%20slides]Morpheus%20An%20Adaptive%20DRAM%20Cache%20with%20Online%20Granularity%20Adjustment%20for%20Disaggregated%20Memory.pdf), [code](https://github.com/zxhero/Morpheus)
+**X. Zhang**, T. Lu, Y. Chang, K. Zhang and M. Chen, "Morpheus: An Adaptive DRAM Cache with Online Granularity Adjustment for Disaggregated Memory," 2023 IEEE 41st International Conference on Computer Design (ICCD), Washington, DC, USA, 2023, pp. 134-141, doi: 10.1109/ICCD58817.2023.00029. [paper](https://ieeexplore.ieee.org/document/10360950), [slides](./Morpheus/[ICCD23%20paper%20140%20slides]Morpheus%20An%20Adaptive%20DRAM%20Cache%20with%20Online%20Granularity%20Adjustment%20for%20Disaggregated%20Memory.pdf), [code](https://github.com/zxhero/Morpheus)
 
 **X. Zhang**, Y. Chang, T. Lu, K. Zhang, and M. Chen, "Rethinking Design Paradigm of Graph Processing System with a CXL-like Memory Semantic Fabric," 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing (CCGrid), Bangalore, India, 2023, pp. 25-35, doi: 10.1109/CCGrid57682.2023.00013. [paper](https://ieeexplore.ieee.org/abstract/document/10171525), [slides](GraCXL/CCGRID23_GraCXL_slides.pdf), [lightning talk](https://www.bilibili.com/video/BV1Sa4y1G7PD/), [code](https://gitlab.agileserve.org.cn:8001/zhangxu/gracxl)
 
