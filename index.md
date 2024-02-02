@@ -69,6 +69,8 @@ Teaching assistant of Computer Organization and Design course (B0911007Y)
 
 ## Awards
 
+Huawei Doctor Award (given by Huawei in 2023)
+
 Outstanding Student Award (given by UCAS in 2021)
 
 Fintech Master Award (given by E-Fund in 2020)
