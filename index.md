@@ -45,6 +45,9 @@ Bachelor, University of Chinese Academy of Sciences (UCAS)
 
 ## Publications
 
+`2024`
+L. Wang and **X. Zhang** and S. Wang and Z. Jiang and T. Lu and M. Chen and S. Luo and K. Huang, "Asynchronous Memory Access Unit: Exploiting Massive Parallelism for Far Memory Access," accepted by ACM Transactions on Architecture and Code Optimization (TACO). [paper](https://arxiv.org/abs/2404.11044)
+
 `2023`
 **X. Zhang**, T. Lu, Y. Chang, K. Zhang and M. Chen, "Morpheus: An Adaptive DRAM Cache with Online Granularity Adjustment for Disaggregated Memory," 2023 IEEE 41st International Conference on Computer Design (ICCD), Washington, DC, USA, 2023, pp. 134-141, doi: 10.1109/ICCD58817.2023.00029. [paper](https://ieeexplore.ieee.org/document/10360950), [slides](./Morpheus/[ICCD23%20paper%20140%20slides]Morpheus%20An%20Adaptive%20DRAM%20Cache%20with%20Online%20Granularity%20Adjustment%20for%20Disaggregated%20Memory.pdf), [code](https://github.com/zxhero/Morpheus)
 
