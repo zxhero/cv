@@ -36,6 +36,9 @@ My researches mainly focus on how to mitigate the significant letancy of accessi
 
 ## Education
 
+`2019 - 2025` 
+Doctor, Institute of Computing Technology (ICT), CAS
+
 `2018 - 2019`
 Exchange Student, National University of Singapore (NUS)
 
