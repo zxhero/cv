@@ -51,7 +51,7 @@ Bachelor, University of Chinese Academy of Sciences (UCAS)
 ## Publications
 
 `2025`
-**X. Zhang**, K. Liu, Y. Hui, X. Zheng, Y. Chang, Y. Zhou, G. Zhang, K. Zhang, Y. Bao, M. Chen, and C. Wang. "DRack: A CXL-Disaggregated Rack Architecture to Boost Inter-Rack Communication," 2025 USENIX Annual Technical Conference (USENIX ATC '25), Boston, MA, USA. [paper to be added](). (accepted rate 15.8%)
+**X. Zhang**, K. Liu, H. Yuan, X. Zheng, Y. Chang, Y. Shan, G. Zhang, K. Zhang, Y. Bao, M. Chen, and C. Wang. "DRack: A CXL-Disaggregated Rack Architecture to Boost Inter-Rack Communication," 2025 USENIX Annual Technical Conference (USENIX ATC '25), Boston, MA, USA. [paper to be added](). (accepted rate 15.8%)
 
 `2024`
 Luming Wang, **Xu Zhang**, Songyue Wang, Zhuolun Jiang, Tianyue Lu, Mingyu Chen, Siwei Luo, and Keji Huang. 2024. Asynchronous Memory Access Unit: Exploiting Massive Parallelism for Far Memory Access. ACM Trans. Archit. Code Optim. 21, 3, Article 55 (September 2024), 28 pages. [paper](https://doi.org/10.1145/3663479)
