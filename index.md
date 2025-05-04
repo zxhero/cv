@@ -28,10 +28,12 @@ Studying under the supervision of Professor <a href="http://asg.ict.ac.cn/cmy/">
 
 in Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS).
 
+**I will join ICT, CAS as an Assistant Professor.**
 
 ## Research interests
 
-My researches mainly focus on how to mitigate the significant letancy of accessing far memory, which poses an urgent and challenging problem for both **Memory Disaggregation System** and **Distributed Shared-Memory System**. I have explored a general hardware approach and a more specialized software approach targeted at **Graph Computing**.
+<!-- My researches mainly focus on how to mitigate the significant letancy of accessing far memory, which poses an urgent and challenging problem for both **Memory Disaggregation System** and **Distributed Shared-Memory System**. I have explored a general hardware approach and a more specialized software approach targeted at **Graph Computing**. -->
+My researches mainly focus on Memory Semantic Interconnections (e.g. OpenCAPI and CXL), Distributed Shared Memory System, Intra-Rack network, and RDMA.
 
 
 ## Education
@@ -47,6 +49,9 @@ Bachelor, University of Chinese Academy of Sciences (UCAS)
 
 
 ## Publications
+
+`2025`
+**X. Zhang**, K. Liu, Y. Hui, X. Zheng, Y. Chang, Y. Zhou, G. Zhang, K. Zhang, Y. Bao, M. Chen, and C. Wang. "DRack: A CXL-Disaggregated Rack Architecture to Boost Inter-Rack Communication," 2025 USENIX Annual Technical Conference (USENIX ATC '25), Boston, MA, USA. [paper to be added](). (accepted rate 15.8%)
 
 `2024`
 Luming Wang, **Xu Zhang**, Songyue Wang, Zhuolun Jiang, Tianyue Lu, Mingyu Chen, Siwei Luo, and Keji Huang. 2024. Asynchronous Memory Access Unit: Exploiting Massive Parallelism for Far Memory Access. ACM Trans. Archit. Code Optim. 21, 3, Article 55 (September 2024), 28 pages. [paper](https://doi.org/10.1145/3663479)
@@ -83,11 +88,13 @@ Fintech Master Award (given by E-Fund in 2020)
 
 ## Acknowledgment
 
-Currently, I am engaged in close collaboration with Prof. Ke Zhang, A.P. Yisong Chang, and A.P. Tianyue Lu on my research endeavors. To conduct my experiments and drive researches forward, We have established a robust infrastructure using the FPGA cloud platform [SERVE](https://zhuanlan.zhihu.com/p/213194605) and the powerful hybrid memory trace toolkit [HMTT](http://asg.ict.ac.cn/hmtt/).
+Currently, I am engaged in close collaboration with Prof. Ke Zhang, A.P. Ke Liu, and A.P. Tianyue Lu on my research endeavors. To conduct my experiments and drive researches forward, We have established a robust infrastructure using the FPGA cloud platform [SERVE](https://zhuanlan.zhihu.com/p/213194605) and the powerful hybrid memory trace toolkit [HMTT](http://asg.ict.ac.cn/hmtt/).
 
 The SERVE platform provids us with access to FPGA resources in the cloud. Leveraging the scalability and parallel processing capabilities of FPGAs, we can implement distributed multi-FPGA platform and optimize complex algorithms, enabling us to tackle challenging research problems.
 
 We rely on the HMTT toolkit offering capabilities for capturing and analyzing memory traces. By leveraging a DIMM-snooping mechanism and software-controlled tracing, HMTT enables us to gain deep insights into memory behavior and correlate it with high-level events.
+
+Special thanks to my former collaborator, A.P. Yisong Chang, for his valuable contributions and insights.
 
 <!-- ### Footer
 
