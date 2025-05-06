@@ -98,7 +98,7 @@ Special thanks to my former collaborator, A.P. Yisong Chang, for his valuable co
 
 ## Visiting Count
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span>.</span>
+<span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span>. since 2025.5.6</span>
 
 <!-- ### Footer
 
