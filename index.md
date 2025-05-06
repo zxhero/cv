@@ -96,6 +96,10 @@ We rely on the HMTT toolkit offering capabilities for capturing and analyzing me
 
 Special thanks to my former collaborator, A.P. Yisong Chang, for his valuable contributions and insights.
 
+## Visiting Count
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span>.</span>
+
 <!-- ### Footer
 
 Last updated: Mar 2023 -->
