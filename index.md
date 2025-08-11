@@ -51,7 +51,7 @@ Bachelor, University of Chinese Academy of Sciences (UCAS)
 ## Publications
 
 `2025`
-**X. Zhang**, K. Liu, H. Yuan, X. Zheng, Y. Chang, Y. Shan, G. Zhang, K. Zhang, Y. Bao, M. Chen, and C. Wang. "DRack: A CXL-Disaggregated Rack Architecture to Boost Inter-Rack Communication," 2025 USENIX Annual Technical Conference (USENIX ATC '25), Boston, MA, USA. [paper to be added](). (accepted rate 15.8%)
+**X. Zhang**, K. Liu, H. Yuan, X. Zheng, Y. Chang, Y. Shan, G. Zhang, K. Zhang, Y. Bao, M. Chen, and C. Wang. "DRack: A CXL-Disaggregated Rack Architecture to Boost Inter-Rack Communication," 2025 USENIX Annual Technical Conference (USENIX ATC '25), Boston, MA, USA. [paper](https://www.usenix.org/conference/atc25/presentation/zhang-xu). (accepted rate 15.8%)
 
 `2024`
 Luming Wang, **Xu Zhang**, Songyue Wang, Zhuolun Jiang, Tianyue Lu, Mingyu Chen, Siwei Luo, and Keji Huang. 2024. Asynchronous Memory Access Unit: Exploiting Massive Parallelism for Far Memory Access. ACM Trans. Archit. Code Optim. 21, 3, Article 55 (September 2024), 28 pages. [paper](https://doi.org/10.1145/3663479)
@@ -80,6 +80,10 @@ Teaching assistant of Computer Organization and Design course (B0911007Y)
 
 ## Awards
 
+Outstanding Graduate of Beijing, June 2025
+
+Outstanding Graduate of UCAS, June 2025
+
 Huawei Doctor Award (given by Huawei in 2023)
 
 Outstanding Student Award (given by UCAS in 2021)
@@ -96,9 +100,9 @@ We rely on the HMTT toolkit offering capabilities for capturing and analyzing me
 
 Special thanks to my former collaborator, A.P. Yisong Chang, for his valuable contributions and insights.
 
-## Visiting Count
+<!-- ## Visiting Count
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span>. since 2025.5.6</span>
+<span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span>. since 2025.5.6</span> -->
 
 <!-- ### Footer
 
