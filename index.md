@@ -4,14 +4,23 @@ title: Xu Zhang's CV
 ---
 # Xu Zhang
 
-Computer Science, Ph.D. Candidate
+<br>
+
+Assistant Professor
+
+Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS).
 
 100080, Institute of Computing Technology, Academy South Road, No.6, Beijing, China
 
 
 <div id="webaddress">
-<a href="zhangxu19s@ict.ac.cn">zhangxu19s@ict.ac.cn</a>
+<a href="mailto:zhangxu2025@ict.ac.cn">zhangxu2025@ict.ac.cn</a>
 </div>
+
+<div id="scholar">
+<a href="https://scholar.google.com/citations?user=J_LkbdQAAAAJ&hl=zh-CN">Xu Zhang's Google Scholar Profile</a>
+</div>
+
 
 <div id="selfi">
 <img src="selfi.jpg" style="
@@ -22,13 +31,13 @@ Computer Science, Ph.D. Candidate
 </div>
 
 
-## Currently
+<!-- ## Currently
 
 Studying under the supervision of Professor <a href="http://asg.ict.ac.cn/cmy/">Mingyu Chen</a>, 
 
 in Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS).
 
-**I will join ICT, CAS as an Assistant Professor.**
+**I will join ICT, CAS as an Assistant Professor.** -->
 
 ## Research interests
 
@@ -92,7 +101,7 @@ Fintech Master Award (given by E-Fund in 2020)
 
 ## Acknowledgment
 
-Currently, I am engaged in close collaboration with Prof. Ke Zhang, A.P. Ke Liu, and A.P. Tianyue Lu on my research endeavors. To conduct my experiments and drive researches forward, We have established a robust infrastructure using the FPGA cloud platform [SERVE](https://zhuanlan.zhihu.com/p/213194605) and the powerful hybrid memory trace toolkit [HMTT](http://asg.ict.ac.cn/hmtt/).
+Currently, I am engaged in close collaboration with Prof. Mingyu Chen, Prof. Ke Zhang, A.P. Ke Liu, and A.P. Tianyue Lu on my research endeavors. To conduct my experiments and drive researches forward, We have established a robust infrastructure using the FPGA cloud platform [SERVE](https://zhuanlan.zhihu.com/p/213194605) and the powerful hybrid memory trace toolkit [HMTT](http://asg.ict.ac.cn/hmtt/).
 
 The SERVE platform provids us with access to FPGA resources in the cloud. Leveraging the scalability and parallel processing capabilities of FPGAs, we can implement distributed multi-FPGA platform and optimize complex algorithms, enabling us to tackle challenging research problems.
 
