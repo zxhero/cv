@@ -16,7 +16,7 @@ No.6 Kexueyuan South Road, Haidian District, Beijing, 100190 China
 <a href="mailto:zhangxu2025@ict.ac.cn">zhangxu2025@ict.ac.cn</a>
 </div>
 
-<div id="scholar">
+<div id="webaddress">
 <a href="https://scholar.google.com/citations?user=J_LkbdQAAAAJ&hl=zh-CN">Xu Zhang's Google Scholar Profile</a>
 </div>
 
