@@ -43,6 +43,8 @@ in Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS).
 <!-- My researches mainly focus on how to mitigate the significant letancy of accessing far memory, which poses an urgent and challenging problem for both **Memory Disaggregation System** and **Distributed Shared-Memory System**. I have explored a general hardware approach and a more specialized software approach targeted at **Graph Computing**. -->
 My researches mainly focus on Memory Semantic Interconnections (e.g. OpenCAPI and CXL), Distributed Shared Memory System, Intra-Rack network, and RDMA.
 
+At present, I am actively involved in the performance optimization and development of open-source memory controller [YuQuan](https://github.com/OpenXiangShan/YuQuan).
+
 
 ## Education
 
@@ -57,6 +59,13 @@ Bachelor, University of Chinese Academy of Sciences (UCAS)
 
 
 ## Publications
+
+`2026`
+**Xu Zhang**, Ke Liu, Mingyu Chen. "A Simulation Platform Based on SoC-FPGA Clusters for CXL-Ethernet Heterogeneous Interconnection", Journal of System Simulation
+
+K. Liu, K. Liu, **X. Zhang**, H. Yuan, X. Zheng, N. Liu, M. Chen, C. Wang. "RaidenSwap: A Multi-Swap Remote System for Multi-core Applications," EuroSYS'26
+
+Shuang Wu, ***Xu Zhang**, Yibin Xu, Yangyang Zhao, Tianyue Lu and Mingyu Chen. "S-MSHR: A Scalable MSHR Architecture Using Cache Tag Data-Ready Bits and Index Queues", CCGRID'26
 
 `2025`
 **X. Zhang**, K. Liu, H. Yuan, X. Zheng, Y. Chang, Y. Shan, G. Zhang, K. Zhang, Y. Bao, M. Chen, and C. Wang. "DRack: A CXL-Disaggregated Rack Architecture to Boost Inter-Rack Communication," 2025 USENIX Annual Technical Conference (USENIX ATC '25), Boston, MA, USA. [paper](https://www.usenix.org/conference/atc25/presentation/zhang-xu). (accepted rate 15.8%)
@@ -83,6 +92,8 @@ Luming Wang, **Xu Zhang**, Tianyue Lu, Mingyu Chen, ”Asynchronous Memory Acces
 **ZHANG Xu**, CHANG Yisong, ZHANG Ke, et al. Design and implementation of a novel off-chip memory access path for graph computing[J]. Journal of National University of Defense Technology, 2020, 42(2):13-22. [paper](http://journal.nudt.edu.cn/gfkjdxxb/ch/reader/view_abstract.aspx?file_no=202002002&flag=1)
 
 ## Service
+
+[Shadow PC](https://2026.eurosys.org/shadow-program-committee.html#pc) of EuroSYS'26
 
 Reviewing experience of MemSys'25, APPT'25, ASPLOS'24, MemSys'24, HPCA'24
 
